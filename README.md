@@ -1,6 +1,6 @@
 # riskthinking
 
-Create a Dockerfile that contains the necessary commands to build a Docker image for the workflow. Here's an example Dockerfile:
+We need tp create a Dockerfile that contains the necessary commands to build a Docker image for the workflow. Here's an example Dockerfile:
 
 
 Copy code
